@@ -1,0 +1,11 @@
+.mb30 {
+  margin-bottom: 30px;
+}
+
+footer {
+  background: #fff;
+  bottom: 0;
+  padding: 2px 5px;
+  position: fixed;
+  right: 0;
+}
